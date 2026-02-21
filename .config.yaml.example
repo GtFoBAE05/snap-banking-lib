@@ -1,0 +1,13 @@
+http_timeout: 30s
+
+banks:
+  bca:
+    api_base_url:
+    api_base_path:
+    api_key:
+    api_secret:
+    client_id:
+    client_secret:
+    private_key_path: bca_private_key.pem
+    endpoints:
+      access_token: /v1.0/access-token/b2b
